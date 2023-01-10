@@ -2,9 +2,9 @@
 
 
 
-<h1 align="left"> Hi 👋, Im Sooraj</h1>
-
-I'm a self taught full stack developer in Python Django domain. I have made completely funtional ecommerce website using HTML,CSS,Bootstrap as frontend and Django as backend. Currently, I'm working on a job portal website using React as frontend and Djagno as backend. 
+<h1 align="center"> Hi 👋, Im Sooraj</h1>
+<p align="center">
+I'm a self taught full stack developer in Python Django domain. I have made completely funtional ecommerce website using HTML,CSS,Bootstrap as frontend and Django as backend. Currently, I'm working on a job portal website using React as frontend and Djagno as backend. </p>
 
 ## <h1 align="center">Projects</h1>
 

@@ -6,7 +6,7 @@
 <p align="center">
 I'm a self taught full stack developer in Python Django domain. I have made completely funtional ecommerce website using HTML,CSS,Bootstrap as frontend and Django as backend. Currently, I'm working on a job portal website using React as frontend and Djagno as backend. </p>
 
-## <h1 align="center">Projects</h1>
+## <h1 align="center">PROJECTS</h1>
 
 - [AR PROGEARS](https://github.com/soorajar0002/ARPROGEARS_ECOM):  This is an e-commerce website for riding gears such as
 helmets, boots, jackets and gloves. Users can view

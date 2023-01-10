@@ -26,8 +26,8 @@ and will be interviewed on video call.
 
 ## <h1 align="center"> Contact me </h1>
 
-- <p align="center">Email: soorajar31@gmail.com</p>
-- <p align="center">Website: www.soorajar.cf</p> 
-- <p align="center"> LinkedIn: [Sooraj A R](https://www.linkedin.com/in/soorajardjangodeveloper/)</p>
-- <p align="center"> Instagram: [@soorajar0002](https://www.instagram.com/soorajar0002/)</p>
+<p align="center">Email: soorajar31@gmail.com</p>
+<p align="center">Website: www.soorajar.cf</p> 
+ <p align="center"> LinkedIn: [Sooraj A R](https://www.linkedin.com/in/soorajardjangodeveloper/)</p>
+ <p align="center"> Instagram: [@soorajar0002](https://www.instagram.com/soorajar0002/)</p>
 

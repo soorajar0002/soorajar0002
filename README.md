@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sooraj</h1>
 <h3 align="center">I'm a self taught full stack developer in Python Django domain. I have made completely funtional ecommerce website using HTML,CSS,Bootstrap as frontend and Django as backend. Currently, I'm working on a job portal website using React as frontend and Djagno as backend.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soorajar0002&label=Profile%20views&color=0e75b6&style=flat" alt="soorajar0002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soorajar0002&label=Profile%20views&color=0e75b6&style=flat" alt="soorajar0002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soorajar0002" alt="soorajar0002" /></a> </p>
 
